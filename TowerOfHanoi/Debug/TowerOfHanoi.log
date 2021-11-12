@@ -1,0 +1,4 @@
+﻿  TowerOfHanoi.cpp
+C:\Users\AhmadHassan\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.cpp(81,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AhmadHassan\source\repos\TowerOfHanoi\TowerOfHanoi\TowerOfHanoi.cpp(129,27): warning C4018: '<': signed/unsigned mismatch
+  TowerOfHanoi.vcxproj -> C:\Users\AhmadHassan\source\repos\TowerOfHanoi\Debug\TowerOfHanoi.exe
