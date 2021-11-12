@@ -4,7 +4,7 @@
 
 ## Getting Started
 * This puzzle is all about "When I think of the Tower Of Hanoi problem,
- I don't think about a series of moves made" 
+ I don't think about a series of moves made" </br>
 *The goal is to move the entire tower from stack zero to stack two.
 
 <!-- ABOUT THE PROJECT -->
