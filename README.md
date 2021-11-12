@@ -8,7 +8,7 @@
 * The goal is to move the entire tower from stack zero to stack two.
 
 <!-- ABOUT THE PROJECT -->
-## Visual presentation </br>
+## Visual Representation </br>
 ![ToH](https://user-images.githubusercontent.com/26097164/141504432-f6d18636-a719-4148-a868-dd26309b107f.png)
 
 
