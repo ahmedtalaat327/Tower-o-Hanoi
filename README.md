@@ -2,7 +2,7 @@
 ## Hi, there! The best way to understand how actually C++ work </br>
 ## Is to understand modern programming logic and structure and this puzzle solution is a good example
 
-## The Puzzle Concept 
+## Puzzle Concept 
 * This puzzle is all about "When I think of the Tower Of Hanoi problem,
  I don't think about a series of moves made" </br>
 * The goal is to move the entire tower from stack zero to stack two.
