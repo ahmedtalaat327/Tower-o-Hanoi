@@ -12,7 +12,8 @@
 ![ToH](https://user-images.githubusercontent.com/26097164/141504432-f6d18636-a719-4148-a868-dd26309b107f.png)
 
 ## Solution in Practice </br>
-https://miro.medium.com/max/512/1*zoXrzoCEFLoFX7p8O9W_rw.gif
+<img src="https://miro.medium.com/max/512/1*zoXrzoCEFLoFX7p8O9W_rw.gif
+" width="800"/>
 
  
 <!-- Maybe -->
