@@ -1,5 +1,5 @@
 # Tower-o-Hanoi 🧊
-## Hi, there! The best way to understand how actually C++ work </br>
+## Hi, there! The best way to understand how actually C++ works </br>
 ## Is to understand modern programming logic and structure and this puzzle solution is a good example
 
 ## Puzzle Concept 
@@ -9,10 +9,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Visual Representation </br>
-![ToH](https://user-images.githubusercontent.com/26097164/141504432-f6d18636-a719-4148-a868-dd26309b107f.png)
+![141504432-f6d18636-a719-4148-a868-dd26309b107f](https://user-images.githubusercontent.com/26097164/147517304-ea13013d-acff-4ab1-b979-29e9aabc96a5.png)
 
 ## Solution in Practice </br>
 <img src="https://miro.medium.com/max/512/1*zoXrzoCEFLoFX7p8O9W_rw.gif" width="800"/>
+
 
  
 <!-- Maybe -->
